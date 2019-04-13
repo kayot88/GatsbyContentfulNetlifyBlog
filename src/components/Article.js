@@ -2,7 +2,7 @@ import React from "react"
 
 const Article = ({
   content: {
-    title: { title },
+    title,
     text: { text },
     banner: {
       file: { url },
